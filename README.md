@@ -9,11 +9,11 @@ Based on the sensor readings, the microcontroller determines the robot’s posit
 Motor speeds are adjusted accordingly — turning left, right, or moving straight — to maintain alignment with the line.
 
 Hardware Used:
-Arduino Uno (or compatible microcontroller)
-IR Sensor Array
-L298N Motor Driver Module
-DC Motors and Wheels
-Chassis and Battery Pack
+Arduino Uno (or compatible microcontroller)<br>
+IR Sensor Array<br>
+L298N Motor Driver Module<br>
+DC Motors and Wheels<br>
+Chassis and Battery Pack<br>
 
 Software Used:
 Arduino IDE
